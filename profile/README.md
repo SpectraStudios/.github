@@ -12,14 +12,26 @@ Spectra is where physical placemakers and virtual worldbuilders come together to
 
 Are you building toward more livable cities? Yes? Okay, you rock! 🎸 If not, we can help you get started! Learn more about [how to contribute](https://www.spectracities.com/).
 
+</br>
+
 ### 🕊️ Contributing to the cross-platform, open-source ecosystem 🚀
 
 We design open-source tools 🔧 and assets for urban design and XR. Download some of our assets to kickstart your ideas 💡:
 
-- [Spectra Cities Toolkit](https://github.com/SpectraCities) - Project files available for Blender, Unity, Rhino, and glb
+- [Spectra Cities Toolkit](https://github.com/SpectraCities) - Project files available for Blender, Unity, Rhino, and glb (designed with [NUMENA GmbH](https://www.numena.de/))
 - [Spatial.io scenes](https://www.spatial.io/@spectracities) - Explore our city assets on mobile, desktop, or headset at Spatial.io
 - [TUDarmstadt collaboration](https://www.verkehr.tu-darmstadt.de/vv/forschung_ivv/projekte_ivv/aktuelle_projekte_2/scaince/luftreinhaltungoffenbach_1.en.jsp) - Learn about how researchers are using Spectra assets in the scAInce project
+
+</br>
 
 ### 👓 Appendix
 
 Find out more about our [ongoing projects](https://www.spectracities.com/projects/) and [events](https://www.spectracities.com/events/) near you ✨ and join our [Discord](https://discord.gg/aTSRjCaWvn) to get involved 🤝.
+
+</br>
+
+<details> 
+	<summary>"Tell me more, I can't get enough!"</summary>
+	<br>
+	Our Spectra Cities project entry with NUMENA was selected as a <a href="https://vrawards.aixr.org/finalists-2023/">2023 VR Awards Finalist</a> for the AIXR Social Impact Award! 🌟
+</details>
