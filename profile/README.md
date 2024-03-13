@@ -17,6 +17,8 @@ Are you building toward more livable cities? Yes? Okay, you rock! 🎸 If not, w
 We design open-source tools 🔧 and assets for urban design and XR. Download some of our assets to kickstart your ideas 💡:
 
 - [Spectra Cities Toolkit](https://github.com/SpectraCities) - Project files available for Blender, Unity, Rhino, and glb
+- [Spatial.io scenes](https://www.spatial.io/@spectracities) - Explore our city assets on mobile, desktop, or headset at Spatial.io
+- [TUDarmstadt collaboration](https://www.verkehr.tu-darmstadt.de/vv/forschung_ivv/projekte_ivv/aktuelle_projekte_2/scaince/luftreinhaltungoffenbach_1.en.jsp) - Learn about how researchers are using Spectra assets in the scAInce project
 
 ### 👓 Appendix
 
