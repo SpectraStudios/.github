@@ -7,8 +7,8 @@
 Spectra is where physical placemakers and virtual worldbuilders come together to create sustainable, human-centered, and technologically progressive urbanization. Check out some of our current projects:
 
 - [Spectra Cities](https://www.spectracities.com/) - Our flagship project aiming to build a city for 1M+ people 🏙️
-- MeshMap - A Solana app for scanning, geotagging, minting, and mapping a decentralized 3D mesh of the world 🌐 (coming soon!)
-- City Champ - An outdoor Augmented Reality (AR) game about urban social problems, integrated with MeshMap 😎 (coming soon!)
+- [MeshMap](https://meshmap.com/upload) - A Solana app for scanning, geotagging, minting, and mapping a decentralized 3D mesh of the world 🌐 (coming soon!)
+- [City Champ](https://github.com/SpectraStudios/CityChamp) - An outdoor Augmented Reality (AR) game about urban social problems, integrated with MeshMap 😎 (coming soon!)
 
 Are you building toward more livable cities? Yes? Okay, you rock! 🎸 If not, we can help you get started! Learn more about [how to contribute](https://www.spectracities.com/).
 
