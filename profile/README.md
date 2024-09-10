@@ -4,11 +4,10 @@
 
 ### 💻👾 Building ideas from pixels to bricks 🏗️🌍
 
-Spectra is where physical placemakers and virtual worldbuilders come together to create sustainable, human-centered, and technologically progressive urbanization. Check out some of our current projects:
+Spectra is where physical placemakers and virtual worldbuilders come together to create sustainable, human-centered, and technologically progressive urbanization. Check out some of our recent projects:
 
 - [Spectra Cities](https://www.spectracities.com/) - Our flagship project aiming to build a city for 1M+ people 🏙️
-- [MeshMap](https://meshmap.com/upload) - A Solana app for scanning, geotagging, minting, and mapping a decentralized 3D mesh of the world 🌐 (coming soon!)
-- [City Champ](https://github.com/SpectraStudios/CityChamp) - An outdoor Augmented Reality (AR) game about urban social problems, integrated with MeshMap 😎 (coming soon!)
+- [MeshMap](https://meshmap.com/) x [City Champ](https://docs.meshmap.com/games/city-champ) - We incubated this hackathon project building a decentralized 3D map of the world with use cases including urbanism and gaming 🌐
 
 Are you building toward more livable cities? Yes? Okay, you rock! 🎸 If not, we can help you get started! Learn more about [how to contribute](https://www.spectracities.com/).
 
@@ -18,7 +17,7 @@ Are you building toward more livable cities? Yes? Okay, you rock! 🎸 If not, w
 
 We design open-source tools 🔧 and assets for urban design and XR. Download some of our assets to kickstart your ideas 💡:
 
-- [Spectra Cities Toolkit](https://github.com/SpectraCities) - Project files available for Blender, Unity, Rhino, and glb (designed with [NUMENA GmbH](https://www.numena.de/))
+- Spectra Cities Toolkit - Project files available for [Blender](https://github.com/SpectraStudios/SourceCityToolkit_Blender), [Unity](https://github.com/SpectraStudios/SourceCityToolkit_Unity), [Rhino](https://github.com/SpectraStudios/SourceCityToolkit_Rhino), and [glb](https://github.com/SpectraStudios/SourceCityToolkit_glb) (designed with [NUMENA GmbH](https://www.numena.de/))
 - [Spatial.io scenes](https://www.spatial.io/@spectracities) - Explore our city assets on mobile, desktop, or headset at Spatial.io
 - [TUDarmstadt collaboration](https://www.verkehr.tu-darmstadt.de/vv/forschung_ivv/projekte_ivv/aktuelle_projekte_2/scaince/luftreinhaltungoffenbach_1.en.jsp) - Learn about how researchers are using Spectra assets in the scAInce project
 
